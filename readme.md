@@ -10,23 +10,13 @@ Hello! I'm a seasoned developer with a strong background in the crypto world and
    - **Description:** A robust bot for arbitrage trading on the Solana blockchain.
    - **Features:** Multi-threading, queue handling, order placement, wallet balance management, and interaction with the Backpack exchange.
    - **Technologies:** Python, Solana, Jupiter API.
-   
-2. **Solana Swap Script**
-   - **Description:** A comprehensive script to handle token swaps directly within Python.
-   - **Features:** Logging, transaction preparation, signing, sending, confirming, and error handling.
-   - **Technologies:** Python, Solana, Jupiter API.
 
-3. **Token Transfer Script**
-   - **Description:** A Python script to send tokens on Solana, integrating with a Node.js script.
-   - **Features:** Captures transaction signature, handles errors, and ensures successful transfers.
-   - **Technologies:** Python, Node.js, Solana.
-
-4. **HTML5 Tap Game**
+2. **HTML5 Tap Game**
    - **Description:** An idle clicker game playable on mobile and within Telegram web view.
    - **Features:** Referral system, task assignment via Telegram bot, integration with Twitter for in-game rewards.
    - **Technologies:** HTML5, JavaScript, Telegram API.
 
-5. **Jon Wik Memecoin Project**
+3. **Jon Wik Memecoin Project**
    - **Description:** A memecoin project on Solana involving a tap game and volume bot development.
    - **Features:** Integrated tap game, volume bot for managing and optimizing coin volume.
    - **Technologies:** Solana, Python, JavaScript.
