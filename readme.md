@@ -35,12 +35,5 @@ I'm continuously expanding my knowledge in AI and blockchain. Here’s what I'm 
 - **Blockchain Internships:** Exploring opportunities to contribute and grow in blockchain-related roles.
 - **Open Source Contributions:** Actively contributing to and maintaining open source projects.
 
-### 🤝 Let's Connect
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
-
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-
 Thank you for visiting my GitHub profile. Happy coding!
 
